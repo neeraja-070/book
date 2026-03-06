@@ -175,7 +175,7 @@ dependencies = [
 
 [[package]]
 name = "tar"
-version = "0.4.36"
+version = "0.4.26"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 dependencies = [
  "filetime 0.2.7 (registry+https://github.com/rust-lang/crates.io-index)",
@@ -186,7 +186,7 @@ dependencies = [
 
 [[package]]
 name = "thread_local"
-version = "1.0.1"
+version = "1.1.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 dependencies = [
  "lazy_static 1.4.0 (registry+https://github.com/rust-lang/crates.io-index)",
